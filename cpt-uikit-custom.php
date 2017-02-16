@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name: UIkit
- * Plugin URI: http://getuikit.com
- * Description: UIkit support for front-end styling. Checkout these guys: https://github.com/uikit/uikit
+ * Plugin URI: http://getuikit.com/v2/
+ * Description: UIkit Wordpress plugin support for front-end styling. Checkout these guys: https://github.com/uikit/uikit
  * Version: 2.27.1.02162017
  * Author: Cat's Pajamas Technology
  * Author URI: https://catspajamas.tech/
- * License: GPL2
+ * License: MIT
  */
  
  // register script and styles from CDN
